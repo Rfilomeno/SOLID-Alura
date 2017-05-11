@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1- PrincipioDaResponsabilidadeUnica-Solid", "PrincipioDaResponsabilidadeUnica-Solid\1- PrincipioDaResponsabilidadeUnica-Solid.csproj", "{FF718BA9-27AF-4CE4-A265-C8DC7C1E4664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2- PrincipioDoAbertoEFechado-sOlid", "PrincipioDoAbertoEFechado-sOlid\2- PrincipioDoAbertoEFechado-sOlid.csproj", "{DEF492CB-79A7-4CB6-B5F7-C155D971361B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF718BA9-27AF-4CE4-A265-C8DC7C1E4664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF718BA9-27AF-4CE4-A265-C8DC7C1E4664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF718BA9-27AF-4CE4-A265-C8DC7C1E4664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF718BA9-27AF-4CE4-A265-C8DC7C1E4664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEF492CB-79A7-4CB6-B5F7-C155D971361B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF492CB-79A7-4CB6-B5F7-C155D971361B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF492CB-79A7-4CB6-B5F7-C155D971361B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF492CB-79A7-4CB6-B5F7-C155D971361B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
